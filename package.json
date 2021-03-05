@@ -1,0 +1,16 @@
+{
+  "name": "eslint-mdx-repro-279",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "validate": "eslint sample.mdx"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-plugin-mdx": "^1.9.0"
+  }
+}
